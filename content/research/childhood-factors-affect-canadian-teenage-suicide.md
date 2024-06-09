@@ -17,8 +17,7 @@ suicide risk. Social rejection is an important factor, but it alone isn't capabl
 and overcoming the effects of any other variables.
 
 # Thesis
-By examining the possible factors behind the high rate of suicide among Canadian youth–
-excessive screen time during childhood, low religious involvement, and social exclusion–this
+By examining the possible factors behind the high rate of suicide among Canadian youth–excessive screen time during childhood, low religious involvement, and social exclusion–this
 paper will argue that heavy technology use and screentime reveals patterns of potential suicide
 risk among children aged nine to twelve years old. Religious involvement provides protection
 against suicidal attempts and ideation even after experiencing trauma, but protection against
