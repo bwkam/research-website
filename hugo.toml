@@ -2,5 +2,5 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Beshoy Kamel'
 theme = "paper"
-
+canonifyURLs = true
 
