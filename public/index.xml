@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beshoy Kamel</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Beshoy Kamel</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exploring Factors of Childhood that Affect Suicide Rates During Teenage Years in Canada</title>
+      <link>http://localhost:1313/research/childhood-factors-affect-canadian-teenage-suicide/</link>
+      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/childhood-factors-affect-canadian-teenage-suicide/</guid>
+      <description>Motivation Suicide is a tragic public health concern, and in Canada, it is the second leading cause of death among young adults. This concerning trend demands a deeper understanding of the factors contributing to youth suicide. This research explores potential risk factors during childhood and adolescence.&#xA;Hypothesis Excessive childhood screen time and low religious involvement are associated with a high suicide risk. Social rejection is an important factor, but it alone isn&amp;rsquo;t capable of triggering suicide, and overcoming the effects of any other variables.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/archives/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&#xA;Hugo makes use of a variety of open source projects including:&#xA;https://github.com/yuin/goldmark https://github.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description> github.com/nanxiaobei lee.so </description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/works-cited/1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/works-cited/1/</guid>
+      <description>Works Cited “11% of Canadians Aged 15-24 Met Criteria for Depression: StatsCan.” CBC News, CBC, 18 Jan. 2017, www.cbc.ca/news/health/depression-suicidal-thoughts-1.3940621. This 2017 CBC News report is based on 4,031 respondents aged 15 to 24, which when extrapolated represents more than 4.4 million young people. It reveals a disturbingly high number of young Canadians (aged 15-24) experiencing depression (11%). The report further emphasizes the severity of the issue by highlighting that suicide, often linked to depression, is the second leading cause of death in this age group.</description>
+    </item>
+  </channel>
+</rss>

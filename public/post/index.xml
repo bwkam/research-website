@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Beshoy Kamel</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on Beshoy Kamel</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exploring Factors of Childhood that Affect Suicide Rates During Teenage Years in Canada</title>
+      <link>http://localhost:1313/post/childhood-factors-affect-canadian-teenage-suicide/</link>
+      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/childhood-factors-affect-canadian-teenage-suicide/</guid>
+      <description>Motivation Suicide is a tragic public health concern, and in Canada, it is the second leading cause of death among young adults. This concerning trend demands a deeper understanding of the factors contributing to youth suicide. This research explores potential risk factors during childhood and adolescence.&#xA;Hypothesis Excessive childhood screen time and low religious involvement are associated with a high suicide risk. Social rejection is an important factor, but it alone isn&amp;rsquo;t capable of triggering suicide, and overcoming the effects of any other variables.</description>
+    </item>
+  </channel>
+</rss>

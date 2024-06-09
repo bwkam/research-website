@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Miscs on Beshoy Kamel</title>
+    <link>http://localhost:1313/misc/</link>
+    <description>Recent content in Miscs on Beshoy Kamel</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/misc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/misc/works-cited/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/misc/works-cited/</guid>
+      <description>Works Cited “11% of Canadians Aged 15-24 Met Criteria for Depression: StatsCan.” CBC News, CBC, 18 Jan. 2017, www.cbc.ca/news/health/depression-suicidal-thoughts-1.3940621. This 2017 CBC News report is based on 4,031 respondents aged 15 to 24, which when extrapolated represents more than 4.4 million young people. It reveals a disturbingly high number of young Canadians (aged 15-24) experiencing depression (11%). The report further emphasizes the severity of the issue by highlighting that suicide, often linked to depression, is the second leading cause of death in this age group.</description>
+    </item>
+  </channel>
+</rss>
