@@ -80,7 +80,11 @@ religious affiliation.
 There is a strong link between social exclusion and suicidal ideation in adolescents, and
 depression is a big part of that equation. Interestingly, one of the findings is that having a strong
 sense of purpose and meaning in life can actually weaken the association between depression and
-suicidal thoughts. So even if they're feeling isolated, having that internal drive and sense of
+suicidal thoughts.
+
+![people laughing](/laughing.jpg)
+
+So even if they're feeling isolated, having that internal drive and sense of
 meaning can be protective (Zhu et al.). Which logically implies that, the role of social exclusion
 is not permanent in the presence of other variables, such as the "meaning of life". Expanding on
 the role of depression, a high number of young Canadians have been experiencing depression,
