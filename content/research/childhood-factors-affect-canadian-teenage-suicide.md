@@ -46,7 +46,7 @@ There is a clear link between screen time, suicidal behavior, and kids aged 9-11
 Considering Canada's youthful population, and the fact that many children are glued to their
 devices, this could be a big factor in those high suicide rates. Turns out, the more time they spend
 texting, video chatting, gaming, etc., the higher their suicide risk goes up by 9% per additional
-Time. However, excessive screen time displaces important activities and increases exposure to
+time. However, excessive screen time displaces important activities and increases exposure to
 negative content, making them more prone to suicidal thoughts down the line (Berthold).[^1] Many kids
 these days have accounts on popular social media such as TikTok, Instagram, Facebook, etc. And
 this is just wrong given the massive amount of toxicity on it and risks they may come across, especially
